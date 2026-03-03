@@ -16,11 +16,9 @@ Hi, I'm Marcos Pomeranietz!
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 
-- 🌱 I’m currently learning **Backend Development**
-
-- 👨‍💻 Explore my projects at ****
-
-- 📄 Learn more about my experiences at 
+- 🌱 I’m currently learning **Backend Development with NodeJS**
+- 
+- 👨‍💻 Explore my projects
 
 ## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
 
